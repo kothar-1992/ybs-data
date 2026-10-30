@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "lastUpdated": "2026-10-30",
   "routeCount": 165,
-  "checksum": "sha256-ffd9b20cbae43ede7a2930f36900868b2feb5d678cb3a29f8635d45f0b12fec0",
+  "checksum": "sha256-9ae39c2d09a825ecb8f39e835b4485eb7c82a59507318701bcbbff3d86487b9d",
   "minAppVersion": "1.0.0",
   "downloadUrl": "https://raw.githubusercontent.com/kothar-1992/ybs-data/main/routes.json",
-  "changelog": "Real road-following route shapes for all 118 full-stop routes (was straight-line); APS airport shuttle (Pyay + Kabaraye) added with fare marked not-yet-verified"
+  "changelog": "Fare data rebuilt from YRTC structure (hike cancelled Aug 2026): 151 routes K400 standard, 6 far-town K500, 2 downtown K200, APS K500; card fare only where line-verified (YBS-18 K350); 4 routes marked fare-unverified"
 }
