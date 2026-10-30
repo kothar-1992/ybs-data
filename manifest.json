@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "lastUpdated": "2026-10-30",
-  "routeCount": 163,
-  "checksum": "sha256-c9901e56ae71e775417b68c35ff359ac5773d2fba7bc258d73e135caf23a9fd1",
+  "routeCount": 165,
+  "checksum": "sha256-ffd9b20cbae43ede7a2930f36900868b2feb5d678cb3a29f8635d45f0b12fec0",
   "minAppVersion": "1.0.0",
   "downloadUrl": "https://raw.githubusercontent.com/kothar-1992/ybs-data/main/routes.json",
-  "changelog": "Full stop-by-stop data for 92 routes (+24 branch variants = 163 entries, 12,330 stops) merged from thantthet/YBS-Data (CC BY-SA 4.0) with YRTA open-data QA; 47 routes remain terminal-only"
+  "changelog": "Real road-following route shapes for all 118 full-stop routes (was straight-line); APS airport shuttle (Pyay + Kabaraye) added with fare marked not-yet-verified"
 }
