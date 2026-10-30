@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-06-04",
-  "routeCount": 139,
-  "checksum": "sha256-2dcd03482e10149f0a392cae5bc307d6090447d8fc2d052698bef1e2edd04a69",
+  "version": "2.0.0",
+  "lastUpdated": "2026-10-30",
+  "routeCount": 163,
+  "checksum": "sha256-c9901e56ae71e775417b68c35ff359ac5773d2fba7bc258d73e135caf23a9fd1",
   "minAppVersion": "1.0.0",
   "downloadUrl": "https://raw.githubusercontent.com/kothar-1992/ybs-data/main/routes.json",
-  "changelog": "Initial production release with 139 YBS routes"
+  "changelog": "Full stop-by-stop data for 92 routes (+24 branch variants = 163 entries, 12,330 stops) merged from thantthet/YBS-Data (CC BY-SA 4.0) with YRTA open-data QA; 47 routes remain terminal-only"
 }
