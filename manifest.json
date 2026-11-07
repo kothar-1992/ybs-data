@@ -1,9 +1,9 @@
 {
-  "version": "2.2.0",
-  "lastUpdated": "2026-10-30",
+  "version": "2.2.1",
+  "lastUpdated": "2026-11-07",
   "routeCount": 165,
-  "checksum": "sha256-9ae39c2d09a825ecb8f39e835b4485eb7c82a59507318701bcbbff3d86487b9d",
+  "checksum": "sha256-c6eaa19d4cf5243f5cfc96ae98c27054a2a874c375a283260a197c57843ad861",
   "minAppVersion": "1.0.0",
   "downloadUrl": "https://raw.githubusercontent.com/kothar-1992/ybs-data/main/routes.json",
-  "changelog": "Fare data rebuilt from YRTC structure (hike cancelled Aug 2026): 151 routes K400 standard, 6 far-town K500, 2 downtown K200, APS K500; card fare only where line-verified (YBS-18 K350); 4 routes marked fare-unverified"
+  "changelog": "Route-path fixes only: YBS-54 and YBS-15 (Bo Hmu Ba Htoo) lines redrawn through their own stop sequences - the source shapes were a 12-point fragment and an inconsistent trace. No fare, stop or route changes."
 }
